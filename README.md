@@ -1,6 +1,8 @@
 ### Hi there 👋
  <!-- waka-box start -->
  <!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **colommar/colommar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
