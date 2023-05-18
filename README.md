@@ -1,3 +1,13 @@
+Hi! this is colommar!
+- 🔭 I’m currently working on SHMTU.
+- 🌱 I’m currently learning algorithm.
+- 👯 I’m looking to collaborate on some repos.
+- 🤔 I’m always trying to learn some new things.
+- 💬 Ask me about anything you want and i will try my best to help you.
+- 😄 Tell me if you find any bugs.
+- 📫 How to reach me: colommar.top or you can push it on the issue
+- ⚡ Fun fact: A rookie on computer science
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2010%20mins-blue)
 
@@ -81,16 +91,4 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 18/05/2023 15:10:44 UTC
 <!--END_SECTION:waka-->
-<!--  ### **colommar/colommar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-       --!>
