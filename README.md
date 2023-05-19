@@ -1,5 +1,4 @@
 ## Hi! this is colommar!
-- 🔭 I’m currently working on SHMTU.
 - 🌱 I’m currently learning algorithm.
 - 👯 I’m looking to collaborate on some repos.
 - 🤔 I’m always trying to learn some new things.
