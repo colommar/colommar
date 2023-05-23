@@ -8,7 +8,7 @@
 - ⚡ Fun fact: A rookie on computer science
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue)
 
@@ -89,6 +89,6 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ![Lines of Code chart](https://raw.githubusercontent.com/colommar/colommar/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2023 18:36:28 UTC
+ Last Updated on 23/05/2023 02:58:47 UTC
 <!--END_SECTION:waka-->
 
