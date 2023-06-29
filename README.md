@@ -8,7 +8,7 @@
 - ⚡ Fun fact: A rookie on computer science
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -51,17 +51,17 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 30 mins       █████████████████████████   100.00 % 
+C++                      4 hrs 33 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-CLion                    5 hrs 30 mins       █████████████████████████   100.00 % 
+CLion                    4 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C__Workplace             5 hrs 30 mins       █████████████████████████   99.96 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C__Workplace             4 hrs 33 mins       █████████████████████████   99.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -78,6 +78,6 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/colommar/colommar/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2023 18:38:47 UTC
+ Last Updated on 29/06/2023 18:39:18 UTC
 <!--END_SECTION:waka-->
 
