@@ -2,9 +2,13 @@
 
 ### What I'm working on 🛠️
 - [ ] Upcoming Ideas: 
+
     [![organize_messy_documents](https://img.shields.io/badge/my_repo-organize__messy__documents-yellow)](https://github.com/colommar/organize_messy_documents)
+
 - [x] Projects Finished: 
+
     [![Bilibili_Playlist_Search](https://img.shields.io/badge/my_repo-Bilibili__Playlist__Search-yellow)](https://github.com/colommar/Bilibili_Playlist_Search)
+
     [![gitbook2pdf](https://img.shields.io/badge/my_repo-gitbook2pdf-yellow)](https://github.com/colommar/gitbook2pdf)
 
 ### My Stats 📊
@@ -12,7 +16,8 @@
 
 ### How to reach me 🌐
 [![bilibili](https://img.shields.io/badge/bilibili-colommar-blue)](https://space.bilibili.com/293250206)
-[![email](https://img.shields.io/badge/email-yfxx__weiyx%40163.com-red)](mailto:yourEmail@example.com)
+
+[![email](https://img.shields.io/badge/email-yfxx__weiyx%40163.com-blue)](mailto:yourEmail@example.com)
 
 ### Visitors Count 🧑‍💻
 ![Visitor Count](https://profile-counter.glitch.me/colommar/count.svg)
