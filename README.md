@@ -14,6 +14,9 @@
 ### My Stats 📊
 ![colommar's GitHub stats](https://github-readme-stats.vercel.app/api?username=colommar&show_icons=true&theme=tokyonight)
 
+### Skills 🛠️
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colommar&layout=compact)
+
 ### How to reach me 🌐
 [![bilibili](https://img.shields.io/badge/bilibili-colommar-blue)](https://space.bilibili.com/293250206)
 
