@@ -22,7 +22,7 @@
 
 [![email](https://img.shields.io/badge/email-yfxx__weiyx%40163.com-blue)](mailto:yfxx_weiyx@163.com)
 
-[![email](https://img.shields.io/badge/blog-colommar.top-blue)](colommar.top)
+[![email](https://img.shields.io/badge/blog-colommar.top-blue)]([colommar.top](https://www.colommar.top/))
 
 ### Visitors Count 🧑‍💻
 ![Visitor Count](https://profile-counter.glitch.me/colommar/count.svg)
