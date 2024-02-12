@@ -20,7 +20,9 @@
 ### How to reach me 🌐
 [![bilibili](https://img.shields.io/badge/bilibili-colommar-blue)](https://space.bilibili.com/293250206)
 
-[![email](https://img.shields.io/badge/email-yfxx__weiyx%40163.com-blue)](mailto:yourEmail@example.com)
+[![email](https://img.shields.io/badge/email-yfxx__weiyx%40163.com-blue)](mailto:yfxx_weiyx@163.com)
+
+[![email](https://img.shields.io/badge/blog-colommar.top-blue)](colommar.top)
 
 ### Visitors Count 🧑‍💻
 ![Visitor Count](https://profile-counter.glitch.me/colommar/count.svg)
