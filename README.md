@@ -13,6 +13,7 @@
 
 ### My Stats 📊
 ![colommar's GitHub stats](https://github-readme-stats.vercel.app/api?username=colommar&show_icons=true&theme=tokyonight)
+![colommar's GitHub stats2](https://github-readme-streak-stats.herokuapp.com/?user=colommar&theme=dark&hide_border=true)
 
 ### Skills 🛠️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colommar&layout=compact)
