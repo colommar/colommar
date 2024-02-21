@@ -13,7 +13,9 @@
 
 ### My Stats 📊
 ![colommar's GitHub stats](https://github-readme-stats.vercel.app/api?username=colommar&show_icons=true&theme=tokyonight)
+![Colommar profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colommar&theme=github_dark)
 ![colommar's GitHub stats2](https://github-readme-streak-stats.herokuapp.com/?user=colommar&theme=dark&hide_border=true)
+
 
 ### Skills 🛠️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colommar&layout=compact)
@@ -25,8 +27,6 @@
 
 [![email](https://img.shields.io/badge/blog-colommar.top-blue)](https://www.colommar.top/)
 
-### Visitors Count 🧑‍💻
-![Visitor Count](https://profile-counter.glitch.me/colommar/count.svg)
 
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&duration=750&pause=500&color=A8A2F7&multiline=true&repeat=false&random=false&width=475&height=150&lines=Hi!+I+am+colommar.%F0%9F%98%84;Nice+to+meet+you!%E2%9C%A8;I'm+passionate+about+coding+and+learning.;Feel+free+to+explore+my+repositories.+;let's+connect!
