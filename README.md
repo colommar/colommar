@@ -16,7 +16,11 @@
 ![colommar's GitHub stats](https://github-readme-stats.vercel.app/api?username=colommar&show_icons=true&theme=tokyonight)
 ![Colommar profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colommar&theme=github_dark)
 ![colommar's GitHub stats2](https://github-readme-streak-stats.herokuapp.com/?user=colommar&theme=dark&hide_border=true)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colommar/colommar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/colommar/colommar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/colommar/colommar/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### Skills 🛠️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colommar&layout=compact)
