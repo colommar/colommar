@@ -9,7 +9,7 @@
 
     [![Bilibili_Playlist_Search](https://img.shields.io/badge/my_repo-Bilibili__Playlist__Search-green)](https://github.com/colommar/Bilibili_Playlist_Search)
 
-    [![gitbook2pdf](https://img.shields.io/badge/my_repo-gitbook2pdf-green)](https://github.com/colommar/gitbook2pdf)
+    [![book2pdf](https://img.shields.io/badge/my_repo-gitbook2pdf-green)](https://github.com/colommar/gitbook2pdf)
 
 ### My Stats 📊
 ![github's profile](https://github-profile-trophy.vercel.app/?username=colommar)
