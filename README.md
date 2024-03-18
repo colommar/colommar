@@ -32,6 +32,9 @@ Other        5 mins          -------------------------   00.46 %
 
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka14-->
+<!--END_SECTION:waka14-->
+
 ![colommar's GitHub stats2](https://github-readme-streak-stats.herokuapp.com/?user=colommar&theme=dark&hide_border=true)
 
 ### Skills 🛠️
