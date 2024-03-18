@@ -6,6 +6,20 @@
 
 
 <!--START_SECTION:waka14-->
+
+```rust
+From: 16 May 2023 - To: 17 March 2024
+
+Total Time: 20 hrs 20 mins
+
+C++          19 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.52 %
+ObjectiveC   11 mins         -------------------------   00.93 %
+CMake        6 mins          -------------------------   00.54 %
+Python       6 mins          -------------------------   00.53 %
+HTML         1 min           -------------------------   00.14 %
+INI          0 secs          -------------------------   00.00 %
+```
+
 <!--END_SECTION:waka14-->
 
 <!--START_SECTION:waka-->
