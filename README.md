@@ -6,39 +6,66 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2019%20mins-blue)
-<!--START_SECTION:waka14-->
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2024%20mins-blue)
 
-```rust
-From: 16 May 2023 - To: 17 March 2024
+![Profile Views](http://img.shields.io/badge/Profile%20Views-234-blue)
 
-Total Time: 20 hrs 20 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.2%20thousand%20lines%20of%20code-blue)
 
-C++          19 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.52 %
-ObjectiveC   11 mins         -------------------------   00.93 %
-CMake        6 mins          -------------------------   00.54 %
-Python       6 mins          -------------------------   00.53 %
-HTML         1 min           -------------------------   00.14 %
-INI          0 secs          -------------------------   00.00 %
+**🐱 My GitHub Data** 
+
+> 📦 188.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 227 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Wednesday                132 commits         ███████████░░░░░░░░░░░░░░   44.00 % 
+Thursday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Friday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Sunday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 ```
 
-<!--END_SECTION:waka14-->
 
-<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-```rust
-From: 16 May 2023 - To: 17 March 2024
+```text
+🕑︎ Time Zone: Asia/Shanghai
 
-Total Time: 20 hrs 20 mins
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-C++          19 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.52 %
-ObjectiveC   11 mins         -------------------------   00.93 %
-CMake        6 mins          -------------------------   00.54 %
-Python       6 mins          -------------------------   00.53 %
-HTML         1 min           -------------------------   00.14 %
-INI          0 secs          -------------------------   00.00 %
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
+**I Mostly Code in Rust** 
+
+```text
+Rust                     10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+
+ Last Updated on true UTC
 <!--END_SECTION:waka-->
 
 ![Colommar profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colommar&theme=github_dark)
