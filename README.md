@@ -15,6 +15,10 @@
 ![github's profile](https://github-profile-trophy.vercel.app/?username=colommar)
 ![colommar's GitHub stats](https://github-readme-stats.vercel.app/api?username=colommar&show_icons=true&theme=tokyonight)
 ![Colommar profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colommar&theme=github_dark)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![colommar's GitHub stats2](https://github-readme-streak-stats.herokuapp.com/?user=colommar&theme=dark&hide_border=true)
 
 ### Skills 🛠️
