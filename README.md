@@ -21,7 +21,7 @@
 ```rust
 From: 16 May 2023 - To: 17 March 2024
 
-Total Time: 20 hrs 39 mins
+Total Time: 20 hrs 45 mins
 
 C++          19 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.03 %
 Python       19 mins         -------------------------   01.56 %
