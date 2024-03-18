@@ -17,6 +17,19 @@
 ![Colommar profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colommar&theme=github_dark)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 16 May 2023 - To: 17 March 2024
+
+Total Time: 20 hrs 39 mins
+
+C++          19 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.03 %
+Python       19 mins         -------------------------   01.56 %
+ObjectiveC   11 mins         -------------------------   00.91 %
+CMake        6 mins          -------------------------   00.53 %
+Other        5 mins          -------------------------   00.46 %
+```
+
 <!--END_SECTION:waka-->
 
 ![colommar's GitHub stats2](https://github-readme-streak-stats.herokuapp.com/?user=colommar&theme=dark&hide_border=true)
