@@ -50,7 +50,7 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_PROFILE_VIEWS : True
           SHOW_COMMIT : False
-          SHOW_DAYS_OF_WEEK : False
+          SHOW_DAYS_OF_WEEK : True
           SHOW_LANGUAGE : True
           SHOW_OS : True
           SHOW_PROJECTS : False
@@ -61,4 +61,3 @@ jobs:
           SHOW_SHORT_INFO : True
           SHOW_TOTAL_CODE_TIME : True
           SYMBOL_VERSION : 1
-          DEBUG_LOGGING : True
