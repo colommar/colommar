@@ -5,7 +5,7 @@
 ![colommar's GitHub stats](https://github-readme-stats.vercel.app/api?username=colommar&show_icons=true&theme=tokyonight)
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka14-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-234-blue)
@@ -66,9 +66,9 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
  Last Updated on true UTC
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka14-->
 
-<!--START_SECTION:waka14-->
+<!--START_SECTION:waka-->
 
 ```rust
 From: 16 May 2023 - To: 17 March 2024
@@ -83,7 +83,7 @@ HTML         1 min           -------------------------   00.14 %
 INI          0 secs          -------------------------   00.00 %
 ```
 
-<!--END_SECTION:waka14-->
+<!--END_SECTION:waka-->
 
 ![Colommar profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colommar&theme=github_dark)
 
