@@ -8,66 +8,20 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2019%20mins-blue)
 <!--START_SECTION:waka14-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-234-blue)
+```rust
+From: 16 May 2023 - To: 17 March 2024
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.2%20thousand%20lines%20of%20code-blue)
+Total Time: 20 hrs 20 mins
 
-**🐱 My GitHub Data** 
-
-> 📦 188.6 kB Used in GitHub's Storage 
- > 
-> 🏆 227 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Wednesday                132 commits         ███████████░░░░░░░░░░░░░░   44.44 % 
-Thursday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Friday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Sunday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+C++          19 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.52 %
+ObjectiveC   11 mins         -------------------------   00.93 %
+CMake        6 mins          -------------------------   00.54 %
+Python       6 mins          -------------------------   00.53 %
+HTML         1 min           -------------------------   00.14 %
+INI          0 secs          -------------------------   00.00 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Rust** 
-
-```text
-Rust                     10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
-
- Last Updated on true UTC
 <!--END_SECTION:waka14-->
 
 <!--START_SECTION:waka-->
