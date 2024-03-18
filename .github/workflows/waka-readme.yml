@@ -22,7 +22,7 @@ jobs:
           REPOSITORY: colommar/colommar # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
+          SECTION_NAME: waka14 # optional
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
@@ -44,7 +44,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka14 # optional
           SHOW_UPDATED_DATE: True
           UPDATED_DATE_FORMAT: True
           SHOW_LINES_OF_CODE: True
