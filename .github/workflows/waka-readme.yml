@@ -52,7 +52,7 @@ jobs:
           SECTION_NAME: waka14 # optional
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
-          TIME_RANGE: last_7_days # optional
+          TIME_RANGE: last_14_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
