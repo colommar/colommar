@@ -17,7 +17,7 @@
 ![Colommar profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=colommar&theme=github_dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
@@ -35,6 +35,34 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Wednesday                132 commits         ███████████░░░░░░░░░░░░░░   45.36 % 
+Thursday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Friday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Sunday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/colommar/colommar/main/assets/bar_graph.png)
