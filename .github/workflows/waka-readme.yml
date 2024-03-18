@@ -48,7 +48,6 @@ jobs:
           SHOW_UPDATED_DATE: True
           UPDATED_DATE_FORMAT: True
           SHOW_LINES_OF_CODE: True
-          SHOW_PROFILE_VIEWS : True
           SHOW_COMMIT : False
           SHOW_DAYS_OF_WEEK : True
           SHOW_LANGUAGE : True
@@ -61,3 +60,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME : True
           SYMBOL_VERSION : 1
           SHOW_SHORT_INFO : True
+          SHOW_PROFILE_VIEWS : True
+
