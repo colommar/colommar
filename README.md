@@ -36,11 +36,16 @@ INI          0 secs          -------------------------   00.00 %
 <!--START_SECTION:waka14-->
 
 ```rust
-From: 10 March 2024 - To: 17 March 2024
+From: 16 May 2023 - To: 17 March 2024
 
-Total Time: 0 secs
+Total Time: 20 hrs 20 mins
 
-No activity tracked
+C++          19 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.52 %
+ObjectiveC   11 mins         -------------------------   00.93 %
+CMake        6 mins          -------------------------   00.54 %
+Python       6 mins          -------------------------   00.53 %
+HTML         1 min           -------------------------   00.14 %
+INI          0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka14-->
