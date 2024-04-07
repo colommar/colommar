@@ -8,12 +8,12 @@
 <!--START_SECTION:waka14-->
 
 ```rust
-From: 16 May 2023 - To: 05 April 2024
+From: 16 May 2023 - To: 06 April 2024
 
-Total Time: 43 hrs 53 mins
+Total Time: 43 hrs 54 mins
 
-C++              21 hrs 37 mins  >>>>>>>>>>>>-------------   49.27 %
-Rust             11 hrs 43 mins  >>>>>>>------------------   26.70 %
+C++              21 hrs 37 mins  >>>>>>>>>>>>-------------   49.25 %
+Rust             11 hrs 43 mins  >>>>>>>------------------   26.72 %
 C#               3 hrs 4 mins    >>-----------------------   07.01 %
 Markdown         2 hrs 23 mins   >------------------------   05.43 %
 YAML             2 hrs 8 mins    >------------------------   04.87 %
