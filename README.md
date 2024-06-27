@@ -26,16 +26,16 @@
 <!--START_SECTION:waka14-->
 
 ```rust
-From: 16 May 2023 - To: 25 June 2024
+From: 16 May 2023 - To: 26 June 2024
 
-Total Time: 83 hrs 57 mins
+Total Time: 84 hrs 9 mins
 
-C++              21 hrs 37 mins  >>>>>>-------------------   25.75 %
-Rust             19 hrs 5 mins   >>>>>>-------------------   22.73 %
-C#               14 hrs 57 mins  >>>>---------------------   17.81 %
-Python           6 hrs 47 mins   >>-----------------------   08.09 %
-Markdown         5 hrs 34 mins   >>-----------------------   06.64 %
-Other            4 hrs 17 mins   >------------------------   05.11 %
+C++              21 hrs 37 mins  >>>>>>-------------------   25.69 %
+Rust             19 hrs 5 mins   >>>>>>-------------------   22.68 %
+C#               14 hrs 57 mins  >>>>---------------------   17.77 %
+Python           6 hrs 52 mins   >>-----------------------   08.16 %
+Markdown         5 hrs 41 mins   >>-----------------------   06.75 %
+Other            4 hrs 18 mins   >------------------------   05.12 %
 ```
 
 <!--END_SECTION:waka14-->
